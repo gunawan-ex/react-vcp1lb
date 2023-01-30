@@ -1,0 +1,16 @@
+.bg-jumb {
+  margin-top: 60px;
+  background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR19WVqVtx67ebAFmdswk6ntsRHtJVFm4_PbU1fdu4XSYJZPhXc_g4ZzXTg29I&usqp=CAc");
+  background-position: center;
+  background-size: cover;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
+.paraf {
+  width: 80%;
+  text-align: center;
+}
