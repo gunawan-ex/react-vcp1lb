@@ -1,7 +1,7 @@
 {
   "name": "react",
   "version": "0.0.0",
-  "homepage": "https://gunawan-ex.github.io/react-vcp1lb/",
+  "homepage": "http//:gunawan-ex.github.io/react-vcp1lb",
   "private": true,
   "dependencies": {
     "react": "^18.1.0",
